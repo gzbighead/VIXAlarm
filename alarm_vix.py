@@ -33,7 +33,7 @@ WINDOW       = 30          # 统计最近多少个交易日
 FETCH_PERIOD = "3mo"       # 多拉一些，保证对齐后仍有30个交易日
 
 RESEND_API_URL = "https://api.resend.com/emails"
-EMAIL_TO   = ["garyfocus@hotmail.com"]
+EMAIL_TO   = ["gary@ceic.ca"]
 EMAIL_FROM = "VIX报警 <messenger@ceic.ca>"
 
 
